@@ -1,0 +1,9 @@
+class_name CAN_DEFINITIONS 
+extends Resource
+
+enum ID{
+	EXAMPLE = 1,
+	ACK =2,
+	MOVEMENT_INPUT=3,
+	INPUT_VISUALISATIONS = 4
+}
