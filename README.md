@@ -50,4 +50,7 @@ It's worth mentioning that both game objects have an input component, but differ
 
 ![alt text](article/image-7.png)
 
-The other components (`InputComponent`, `AiInputComponent` and `BodyComponent`) follow the same pattern, and you'll find them in the repo: [GitHub link]. In Part 3, we'll use the same local bus to test components in isolation.
+The 3D models, textures and input icons are made by Kenney. I supported the creator by buying the All-in-1 bundle, but the assets themselves are free under Creative Commons CC0. Here are the specific kits if you want to use them:
+https://kenney.nl/assets/prototype-kit
+https://kenney.nl/assets/prototype-textures
+https://kenney.nl/assets/input-prompts
